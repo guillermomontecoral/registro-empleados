@@ -35,7 +35,7 @@ La aplicación cuenta con una interfaz gráfica hecha en **PyQt5**, y permite **
 Clona este repositorio:
 
 ```bash
-git clone [https://github.com/tu-usuario/registro-empleados.git](https://github.com/guillermomontecoral/registro-empleados)
+git clone https://github.com/tu-usuario/registro-empleados.git
 cd registro-empleados
 
 ## Crea un entorno virtual
