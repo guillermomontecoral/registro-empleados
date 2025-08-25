@@ -1,6 +1,6 @@
 # Registro de Empleados (PyQt5 + Pandas)
 
-Este es un proyecto de prueba desarrollado en **Python** que permite registrar empleados con sus datos básicos y calcular su **sueldo neto** en base a rangos salariales.  
+Este es un mini proyecto de prueba desarrollado en **Python** que permite registrar empleados con sus datos básicos y calcular su **sueldo neto** en base a rangos salariales.  
 La aplicación cuenta con una interfaz gráfica hecha en **PyQt5**, y permite **exportar los datos a Excel**.
 
 ---
