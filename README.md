@@ -42,7 +42,7 @@ La aplicaci\'f3n cuenta con una interfaz gr\'e1fica hecha en **PyQt5**, y permit
 Clona este repositorio:\
 \
 ```bash\
-git clone https://github.com/tu-usuario/registro-empleados.git\
+git clone [https://github.com/tu-usuario/registro-empleados.git](https://github.com/guillermomontecoral/registro-empleados)\
 cd registro-empleados\
 \
 ## \expnd0\expndtw0\kerning0
